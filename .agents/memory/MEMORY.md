@@ -1,0 +1,5 @@
+- [Non-destructive schema sync](database-schema-sync.md) — Drizzle push may stop on unrelated destructive prompts; preserve existing data and apply only verified additive DDL.
+- [Admin analytics aggregation](admin-analytics-aggregation.md) — provider interaction counters are cumulative; only timestamped events can support accurate date-range trends.
+- [Native Android builds](android-build-environment.md) — Expo typechecks here, but local APK builds need a stable Android SDK/Gradle environment outside this workspace.
+- [Published schema sync](published-schema-sync.md) — health checks can pass while newly added auth tables still need development sync plus a republish.
+- [Production client acceptance](production-client-acceptance.md) — published health checks are insufficient when production has no approved catalog or provider data.

@@ -1,0 +1,44 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "Kxf9qirtk2o__FqqI-J29"
+uri = "file://attached_assets/fazaah-logo-clean-alpha.png"
+type = "image"
+title = "شعار فزعة المنظّف"
+description = "نسخة PNG شفافة من الشعار بعد تنظيف الشوائب وتوحيد الحواف، جاهزة للاستخدام داخل التطبيق."
+logical_id = "a5a75449-4c32-4fea-8da0-701fbc7dc3d7"
+content_hash = "sha256:8216654855dccc09fe81bea206abb721f3fcbdcbb93c59541baa0db606ab9039"
+size = 337024
+mtime_ms = 1788753223809
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:bef98891-c146-4241-a65f-f0657a058a5f/a5a75449-4c32-4fea-8da0-701fbc7dc3d7/70c72ab8-fd7d-4620-9b9b-073921a6ceed"
+storage_version_token = "1788753513596942"
+content_type = "image/png"
+
+[[outputs]]
+id = "AxKI5oKsyAX3krqnfIgxO"
+uri = "file://exports/fazzah-project-source.zip"
+type = "unspecified"
+title = "مشروع فزعة – المصدر الكامل"
+description = "أرشيف ZIP كامل لمصدر المشروع، يتضمن التطبيق ولوحة التحكم والخادم والمكتبات المشتركة والأصول وملفات الإعداد والتشغيل. تم استبعاد مجلدات الاعتمادات المؤقتة وGit والملفات المولدة فقط."
+logical_id = "d2fa20de-e90d-4da0-9f2c-5784e5771a74"
+content_hash = "sha256:9d25124b9376d856f57cb5858fe0c60497fd3fb18f5806eba3c5934d53046bd9"
+size = 8874253
+mtime_ms = 1789262161971
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:471978f8-def3-4721-b631-c4b7bc271ef8/d2fa20de-e90d-4da0-9f2c-5784e5771a74/4f0acf6f-a937-44f2-ae69-7d297e4fd150"
+storage_version_token = "1789262170493278"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "9zW_7mBPNY5FW-J0kBuZv"
+uri = "file://artifacts/mobile/android/app/build/outputs/apk/release/app-release.apk"
+type = "unspecified"
+title = "فزعة Android test APK 1.0.1"
+description = "Release APK for com.fazaa.app, versionCode 2, built with the published production API domain and signed with the test key."
+logical_id = "243d49ad-95b1-4d00-9d14-f1f5c104bf98"
+content_hash = "sha256:1538179f4819067b81367309ede29ce3a6a3c1731e8e677cf3ed2166a2d0aa30"
+size = 58795866
+mtime_ms = 1789688570784
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:b93cd2b1-efd1-442a-992a-fc932f23e89d/243d49ad-95b1-4d00-9d14-f1f5c104bf98/b6bf8b36-afd8-499d-952a-331a40f52038"
+storage_version_token = "1789689578071363"
+content_type = "application/octet-stream"

@@ -1,3 +1,1 @@
-# Fazaa
-
-Project repository.
+# Fazaa-app
